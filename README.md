@@ -24,6 +24,13 @@
 ### 모듈 구성(샘플)  
 ![모듈구성도](https://user-images.githubusercontent.com/31335823/216994747-7a8708bb-155e-4663-ac47-d7517bc32aef.PNG)  
 
+- Api통신 모듈  
+- 거래 로직 모듈  
+- 거래 이력 모듈  
+- 시스템 제어 모듈  
+- 학습모듈  
+
+
 ### 엔티티 구성  
 ![lowPriceERD](https://user-images.githubusercontent.com/31335823/216988706-2b04ca8d-2f50-4398-a29b-f367c4b02e9f.PNG)  
 
